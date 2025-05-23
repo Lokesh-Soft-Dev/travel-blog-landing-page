@@ -6,7 +6,7 @@ A **responsive travel blog** landing page built with **HTML & Tailwind CSS**, fe
 ✔ **Featured destinations** with hover effects  
 ✔ **Modern UI** with overlays & optimized images  
 
-## 🚀 Live Demo :  
+## 🚀 Live Demo : https://lokesh-soft-dev.github.io/travel-blog-landing-page/
 
 ## 🛠️ Technologies Used  
 - **HTML5** (Semantic structure)  
