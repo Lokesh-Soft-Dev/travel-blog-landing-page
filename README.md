@@ -21,3 +21,10 @@
 - **HTML5**
 - **Tailwind CSS**
 - Custom CSS (for scroll-snap behavior and styling)
+
+---
+## 🧑‍💻 Author
+
+**LOKESH K**
+
+---
