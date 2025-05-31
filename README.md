@@ -1,6 +1,7 @@
 ## 🌍 Wander With Purpose - Travel Blog
 
-- A visually engaging and responsive travel blog website built using **HTML5**, **Tailwind CSS**, and **custom styling**. 
+- A visually engaging and responsive travel blog website built using **HTML5**, **Tailwind CSS**, and **custom styling**.
+  
 - This project highlights some of the world’s most beautiful travel destinations with immersive imagery and smooth user navigation.
 
 ## 🚀 Live Demo : https://lokesh-soft-dev.github.io/travel-blog-landing-page/
